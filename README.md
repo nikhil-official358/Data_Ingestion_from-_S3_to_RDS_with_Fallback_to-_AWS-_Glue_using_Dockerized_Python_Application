@@ -85,30 +85,33 @@ data-ingestion-app
 ---
 
 # Screenshots
+## Project folder Structure
+
+![project folder](doc/Project Folder Structure.png)
 
 ## S3 Dataset
 
-![S3 Bucket](screenshots/s3-bucket.png)
+![S3 Bucket](doc/S3_bucket_dataset.png)
 
 ## Docker Image Build
 
-![Docker Build](screenshots/docker-build.png)
+![Docker Build](doc/Docker_Image_Build.png)
 
 ## Docker Container Run
 
-![Docker Run](screenshots/docker-run.png)
+![Docker Run](doc/Docker_Container_Run.png)
 
 ## RDS Data Verification
 
-![RDS Query](screenshots/rds-data.png)
+![RDS Query](doc/RDS_Database_Data.png)
 
 ## Glue Table Schema
 
-![Glue Schema](screenshots/glue-schema.png)
+![Glue Schema](doc/Glue_Table_Schema.png)
 
 ## Athena Query
 
-![Athena Query](screenshots/athena-query.png)
+![Athena Query](doc/Athena_Query_Result.png)
 
 ---
 
